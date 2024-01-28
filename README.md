@@ -47,8 +47,8 @@ ________________________________________________________________________________
 
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
 - 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
+- 🕸️ Visit my porfolio zzz for more info. <br>
+- 🌀 Trying to blog at zzzz.
   
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
