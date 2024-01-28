@@ -22,7 +22,7 @@ My name is Carlos Maldonado and I'm a mechatronic engineer and Data scientist as
 
 🦾 &nbsp;I graduated in Mechatronic engineering at the Bolivian Catholic university.\
 💡 &nbsp;I have a postgrade in Data analysis at the Bolivian Catholic university.\
-🤖 &nbsp;I have a speciality in Data mining at the Bolivian Catholic university.\
+🤖 &nbsp;I have a specialty in Data mining at the Bolivian Catholic university.\
 🎓 &nbsp;I'm still studying my master's degree in Data Science at the Bolivian Catholic university.
 <br>
 <br>
