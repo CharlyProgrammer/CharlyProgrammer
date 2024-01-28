@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Welcome to my little space, I'm Carlos a developer as you 😎🫵 
 ### I'm glad to meet you 👋, this is my profile where I'll share all about me and my work
-<img src="https://raw.githubusercontent.com/CharlyProgrammer/CharlyProgrammer/main/imgs/banner%20v1.png" width ="100%">
+<img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/banners/banner%20v2.png?raw=true" width ="100%">
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div align='justify'>
