@@ -12,7 +12,7 @@ I'm a mechatronic engineer as well as a technology enthusiastic in disciplines a
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, an.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or scussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at ce.maldonadocaro@gmail.com! I'll try to respond fast.\
 📄 &nbsp;Please have a look at my webpage for more details about me, I'm open to suggestions!.\
 
 
