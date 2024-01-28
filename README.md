@@ -1,5 +1,6 @@
 ## 🙋‍♂️ Welcome to my little space, I'm Carlos a developer as you 😎🫵 
 ### I'm glad to meet you 👋, this is my profile where I'll share all about me and my work
+<img src="https://raw.githubusercontent.com/CharlyProgrammer/CharlyProgrammer/main/imgs/banner%20v1.png" width ="100%">
 ### 👨🏻‍💻 &nbsp;About Me
 
 I'm a mechatronic engineer as well as a technology enthusiastic in disciplines as programming, electronics, robotics, and artificial intelligence (AI). Through all my career I awakened a special interest by electronics and programming, disciplines which encourage my big passion by application developing and projects focus on issues resolution, so constantly I am learning new things which allow me improve my skills. I identify myself as a working, autodidact, curious, collaborative, and responsible person, who enjoy facing new challenges and taking all the opportunities in order to experience new things. 
