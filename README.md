@@ -62,7 +62,7 @@ My name is Carlos Maldonado and I'm a mechatronic engineer and Data scientist as
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" height=40 hspace=10>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" height=40 hspace=10>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Microchip_logo.svg/2560px-Microchip_logo.svg.png" height=40 hspace=10>
    
 </p>
 
