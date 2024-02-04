@@ -1,13 +1,33 @@
 ## 🙋‍♂️ Welcome to my little space, I'm Carlos a developer as you 😎🫵 
 ### I'm glad to meet you 👋, this is my profile where I'll share all about me and my work
 <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/banners/banner%20v2.png?raw=true" width ="100%">
-
+<p align="center">
+    <kbd>
+        <a href="mailto:ce.maldonadocaro@gmail.com" title="Mail">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height=20 hspace=10 />
+        </a>
+        <a href="https://github.com/CharlyProgrammer/MyPortfolio" target="blank" title="Portfolio">
+            <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
+        </a>
+        <a href="https://medium.com/@carlosmaldonadocaro" title="Medium">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/2560px-Medium_%28website%29_logo.svg.png" height=20 hspace=10 />
+        </a>
+        <a href="https://twitter.com/CharlyTechDev" target="blank" title="Twitter - CharlyTechDev">
+            <img src="https://graffica.ams3.digitaloceanspaces.com/2023/07/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.jpeg" height=20 hspace=10 />
+        </a>
+        <a href= "https://www.linkedin.com/in/carloseduardomaldonadocaro" title="LinkedIn">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height=20 hspace=10  />
+        </a>    
+                    
+  </kbd>
+    </p>
+    
 ### 👨🏻‍💻 &nbsp;About Me
 <div align='justify'>
-My name is Carlos Maldonado and I'm a mechatronic engineer and Data scientist as well as a Technology enthusiastic specially in areas like programming, electronics, robotics, and artificial intelligence (AI). Through all my career and previous studies during my college period I awakened a special interest in areas such as electronics and programming, disciplines which encouraged a hidden passion for software and project development focused on issues resolution. Because of that, I always enjoy learning new things which allows me to improve my skills and knowledge. I like to work with languages as python and java but I can work and adapt to other kind of technologies as movile development and data science aplications which are some of the last skills I got. In fact, I consider Data science and machine learning as some of my favorite topics so I always try to learn new techniques and algorithms related to them. So this is me a working, autodidact and curious person, who enjoy facing new challenges and taking all the opportunities in order to experience new things.  
+I'm a mechatronic engineer, passionate software developer, and Data scientist as well as a Technology lover, specially in areas like programming, electronics, robotics, and artificial intelligence (AI). Through all my career and previous studies during my college period I awakened a special interest in areas such as electronics and programming, disciplines which encouraged my hidden passion for electronics and software projects focused on issues resolution. Because of that, I always enjoy learning new things which allows me to improve my skills and knowledge. I like to work with languages as python and java but I can work and adapt to other kind of technologies as development of android aplications or data science and data analysis projects which are some of the last skills I got. In fact, I consider Data science and machine learning as some of my favorite topics so I always try to learn new techniques and algorithms related to them. So this is me, a working, autodidact and curious person who enjoy facing new challenges and taking all the opportunities in order to experience new things.  
 </div>
 <br>
-
+<br>
 <img alt="Night Coding" src="https://media0.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47585i35xnq6b6f2uqduhs3ivonmrg68hzbn2upigg&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="180" height="180" align="right"/>
 
 💡 &nbsp;I'm fascinated with technology and I always enjoy learning about software solutions and electronics.\
@@ -23,9 +43,11 @@ My name is Carlos Maldonado and I'm a mechatronic engineer and Data scientist as
 🦾 &nbsp;I graduated in Mechatronic engineering at the Bolivian Catholic university.\
 💡 &nbsp;I have a postgrade in Data analysis at the Bolivian Catholic university.\
 🤖 &nbsp;I have a specialty in Data mining at the Bolivian Catholic university.\
-🎓 &nbsp;I'm still studying my master's degree in Data Science at the Bolivian Catholic university.
+🎓 &nbsp;I'm still studying a master's degree in Data Science at the Bolivian Catholic university.
 <br>
 <br>
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Languages, tools, and technologies which I work with
 ### ***Data science***
 <img alt="Night Coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy" width="200" height="180" align="right"/>
@@ -87,6 +109,11 @@ ________________________________________________________________________________
 - 🕸️ Visit this porfolio for more info. <br>
 - 🌀 I'm Trying to blog at my medium account.
   
+### My Projects ✨:
+<a href="https://github.com/CharlyProgrammer/MyPortfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlyProgrammer&repo=MyPortfolio&theme=tokyonight" />
+</a>
+
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyProgrammer&layout=compact&show_icon=true&theme=algolia" alt="CharlyProgrammer-langs"/>
@@ -94,11 +121,7 @@ ________________________________________________________________________________
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=CharlyProgrammer&theme=algolia&background=0d1117&hide_border=true" />
-  
+
 </div>
-  
-### My Projects ✨:
-<img alt="Night Coding" src="https://media4.giphy.com/media/l1J3CbFgn5o7DGRuE/200.webp?cid=790b7611yjzq5hxxqadw9dt242bl284cbokmgjdg39zcvl91&ep=v1_gifs_search&rid=200.webp&ct=g" width="220" alt="giphy" width="200" height="180" align="center"/>  
-<!--<a href="https://github.com/Davekibh/Background-generator">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-<!--</a>
+<br>
+<img alt="Night Coding" src="https://media4.giphy.com/media/l1J3CbFgn5o7DGRuE/200.webp?cid=790b7611yjzq5hxxqadw9dt242bl284cbokmgjdg39zcvl91&ep=v1_gifs_search&rid=200.webp&ct=g" width="220" alt="giphy" width="200" height="180" align="center"/>    
