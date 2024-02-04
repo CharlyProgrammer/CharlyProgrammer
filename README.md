@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Welcome to my little space, I'm Carlos a developer as you 😎🫵 
 ### I'm glad to meet you 👋, this is my profile where I'll share all about me and my work
-<p> <b> Data scientist 📊 | 👨🏻‍💻 Backend Developer | 🤖 Mechatronic engineer| Fast learner 👨‍🎓 </b> </p>
+<p> <b> Data scientist 📊 | Backend Developer 👨🏻‍💻 | Mechatronic engineer 🤖 | Passionate learner 👨‍🎓 | Tech lover 🦾 </b> </p>
 
 *- I like to code and create projects for innovation of aplications more and more interesting, so it would be great to build a great team together.*
 
