@@ -2,36 +2,24 @@
 ### I'm glad to meet you 👋, this is my profile where I'll share all about me and my work
 <p> <b> Data scientist 📊 | 👨🏻‍💻 Backend Developer | 🤖 Mechatronic engineer| Fast learner 👨‍🎓 </b> </p>
 
-*- I like to code and build projects in order to develop projects more and more interesting, so it would be great to build a great team together.*
+*- I like to code and create projects for innovation of aplications more and more interesting, so it would be great to build a great team together.*
 
-*- I believe in which the right tool or aplication would be make our lifes more optimal and happier.*
+*- I believe that depelopment of tools and aplications make our lifes more optimal and turn the way on which we live.*
 
-*- My lack of work experience I compensate with good practices, enthusiasm, ideas and honesty so if I don't know an answer, you can be sure I'm going to find it.*
+*- My lack of work experience I try to compensate with good practices, enthusiasm, ideas and honesty so if I don't know an answer, you can be sure I'm going to find it.*
 
-*- I enjoy learning technologies and skills, ,and collaborating with others.* 
+*- I enjoy learning technologies and skills, playing videogames, and collaborating with others.* 
 
 
 <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/banners/banner%20v2.png?raw=true" width ="100%">
 <p align="center">
-    <kbd>
-        <a href="mailto:ce.maldonadocaro@gmail.com" title="Mail">
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height=20 hspace=10 />
-        </a>
-        <a href="https://github.com/CharlyProgrammer/MyPortfolio" target="blank" title="Portfolio">
-            <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
-        </a>
-        <a href="https://medium.com/@carlosmaldonadocaro" title="Medium">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/2560px-Medium_%28website%29_logo.svg.png" height=20 hspace=10 />
-        </a>
-        <a href="https://twitter.com/CharlyTechDev" target="blank" title="Twitter - CharlyTechDev">
-            <img src="https://graffica.ams3.digitaloceanspaces.com/2023/07/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.jpeg" height=20 hspace=10 />
-        </a>
-        <a href= "https://www.linkedin.com/in/carloseduardomaldonadocaro" title="LinkedIn">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height=20 hspace=10  />
-        </a>    
-                    
-  </kbd>
-    </p>
+<a href="mailto:ce.maldonadocaro@gmail.com" target="blank" title="Mail"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://github.com/CharlyProgrammer/MyPortfolio" target="blank" title="Portfolio"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://medium.com/@carlosmaldonadocaro" target="blank" title="Medium"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/2560px-Medium_%28website%29_logo.svg.png" alt="hack_ovindu" height="30" width="90" /></a>
+<a href="https://twitter.com/CharlyTechDev" target="blank" title="Twitter - CharlyTechDev"><img align="center" src="https://graffica.ams3.digitaloceanspaces.com/2023/07/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.jpeg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href= "https://www.linkedin.com/in/carloseduardomaldonadocaro" target="blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="hack_ovindu" height="30" width="60" /></a>    
+               
+</p>
     
 ### 👨🏻‍💻 &nbsp;About Me
 <div align='justify'>
