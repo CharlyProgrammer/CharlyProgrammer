@@ -112,6 +112,9 @@ ________________________________________________________________________________
 <a href="https://github.com/CharlyProgrammer/Painting_DogsImages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlyProgrammer&repo=Painting_DogsImages&theme=tokyonight" />
 </a>
+<a href="https://github.com/CharlyProgrammer/Number_Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlyProgrammer&repo=Number_Recognition&theme=tokyonight" />
+</a>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
