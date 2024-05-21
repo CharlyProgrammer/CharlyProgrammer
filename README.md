@@ -30,11 +30,10 @@
 🙎‍♂️ &nbsp;I'm really good in solving problems in which math and logic is involved.\
 🤓 &nbsp;I like to work with languages as python and java but I can work and adapt to other kind of technologies as well.  
 
-### Extra info
+### 🤖 Extra info
 
 <img alt="Night Coding" src="https://media0.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47585i35xnq6b6f2uqduhs3ivonmrg68hzbn2upigg&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="200" height="180" align="right"/>
 
-🎓 &nbsp;I'm currently finishing my master's degree in Data Science.\
 🌱 &nbsp;My professional goal is to be an expert in Artificial Intelligence (AI), Machine learning, and Programming.\
 ✍️ &nbsp;In my free time, I like to read papers, play some videogames, and code personal projects as hobbies.\
 🤝 &nbsp;Open for collaboration in Data Science, Machine Learning, Programming, or some interesting projects.         
