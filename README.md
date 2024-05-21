@@ -27,7 +27,7 @@
 🦾 &nbsp;I consider myself as a passionate about I like to do.\
 💻 &nbsp;My favorite topics are software development, Data science, artificial intelligence (AI), and robotics.\
 💡 &nbsp;I'm fascinated with technology, so I always enjoy learning new skills in programming, electronics, and AI.\
-🙎‍♂️ &nbsp;I'm really good in solving problems in which math and logic is involve in as well.\
+🙎‍♂️ &nbsp;I'm really good in solving problems in which math and logic is involved.\
 🤓 &nbsp;I like to work with languages as python and java but I can work and adapt to other kind of technologies as well.  
 
 ### Extra info
