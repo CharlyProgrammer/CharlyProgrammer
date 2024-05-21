@@ -11,7 +11,7 @@
 *- I fervently believe that If you don't get along with life and destiny, you must fight and persevere for building your own path* 
 
 
-<img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/banners/banner%20v2.png?raw=true" width ="100%">
+<img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/banners/banner%20v3.png" width ="100%">
 <p align="center">
 <a href="mailto:ce.maldonadocaro@gmail.com" target="blank" title="Mail"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://github.com/CharlyProgrammer/MyPortfolio" target="blank" title="Portfolio"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="hack_ovindu" height="30" width="40" /></a>
