@@ -57,11 +57,9 @@
 <img alt="Night Coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy" width="200" height="180" align="right"/>
 <p>
   <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/Microsoft_Azure.png" height=50 hspace=10>
-  <img src="https://miro.medium.com/v2/resize:fit:512/0*wtNmf_1aQR8OBGMJ.png" height=40 hspace=10>
   <img src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" height=50 hspace=10>
   <img src="https://miro.medium.com/v2/resize:fit:300/1*PiTq6PrYpBaUqxzUR_srsg.png" height=50 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height=40 hspace=10>
-  <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height=40 hspace=10>
   <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" height=40 hspace=10>
 </p>
@@ -72,6 +70,17 @@
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height=40 hspace=10>
+  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/3bbebda874e6003b.png?hl=es-419" height=50 hspace=10>
+ 
+</p>
+
+### ***Development Frameworks***
+<p>
+  <img src="https://avatars.githubusercontent.com/u/104714959?s=48&v=4" height=40 hspace=10>
+  <img src="https://miro.medium.com/v2/resize:fit:512/0*wtNmf_1aQR8OBGMJ.png" height=40 hspace=10>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height=50 hspace=10>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" height=40 hspace=10>
+  
   
 </p>
 
@@ -92,7 +101,7 @@
    
 </p>
 
-### ***Software tools***
+### ***Tools***
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" height=40 hspace=10>
@@ -100,6 +109,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" height=40 hspace=10>
   <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/visual-studio-code.jpg" height=40 hspace=10>
   <img src="https://seeklogo.com/images/A/anaconda-logo-ECE998096F-seeklogo.com.png" height=40 hspace=10>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKoAufYiAR36mWljxnxgUSxlgyQf7PRyPn3axUZPdDid7Cv7mVEuTCaA0PriHdRLPurGgI4sVFjmB_fMtKBgd6KWu_bDKdqMywm-AL-iOX3c69obt2sqeX5KVQVqkzcE8-xG-28yRDXx7X6-ZaNRIUlYmABYmi_8XfFYuYs5IMPU0gv9EbyutqDAfk/s1600/Android%20Studio%20-%20Header.png" height=40 hspace=10>
   
 </p>
 ______________________________________________________________________________________
