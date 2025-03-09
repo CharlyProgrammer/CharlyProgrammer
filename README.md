@@ -44,10 +44,10 @@
 ### 👨‍🎓 &nbsp;About My Studies
 <img alt="Night Coding" src="https://media4.giphy.com/media/cl27Mh8srUEog5GtUR/200.webp?cid=790b7611wdudnbilmuz85g5cq9iu3sdwn90j3nzalkeztbkp&ep=v1_gifs_search&rid=200.webp&ct=g" width="150" height="150" align="right"/>
 
-🦾 &nbsp;I have a degree in Mechatronic engineering from the Bolivian Catholic university.\
-💡 &nbsp; I studied a postgrade in Data analysis at the Bolivian Catholic university.\
-🤖 &nbsp;I got a specialty in Data mining at the Bolivian Catholic university.\
-🎓 &nbsp;Currently I'm doing my final projet to get a master's degree in Data Science at the Bolivian Catholic university.
+🦾 &nbsp;I hold a Bachelor of Science in Mechatronics Engineering from the Universidad Catolica Boliviana.\
+💡 &nbsp; I completed a Diploma in Data Analytics from the Universidad Catolica Boliviana.\
+🤖 &nbsp;I have a specialization in Data mining from the Universidad Catolica Boliviana.\
+🎓 &nbsp;Currently I'm doing my final projet to get a master's degree in Data Science at the Universidad Catolica Boliviana.
 <br>
 <br>
 <br>
