@@ -80,8 +80,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:512/0*wtNmf_1aQR8OBGMJ.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height=50 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" height=40 hspace=10>
-  
-  
+    
 </p>
 
 ### ***Data Bases***
@@ -89,7 +88,6 @@
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" height=40 hspace=10>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40 hspace=10>
-
   
 </p>
 
@@ -108,7 +106,7 @@
   <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/Visual-Studio.png" height=40 hspace=10>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" height=40 hspace=10>
   <img src="https://github.com/CharlyProgrammer/CharlyProgrammer/blob/main/Images/visual-studio-code.jpg" height=40 hspace=10>
-  <img src="https://seeklogo.com/images/A/anaconda-logo-ECE998096F-seeklogo.com.png" height=40 hspace=10>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hzOS5W2J2PjB4JssJDrmx1b7xFn0yt0uCw&s" height=50 hspace=10>
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKoAufYiAR36mWljxnxgUSxlgyQf7PRyPn3axUZPdDid7Cv7mVEuTCaA0PriHdRLPurGgI4sVFjmB_fMtKBgd6KWu_bDKdqMywm-AL-iOX3c69obt2sqeX5KVQVqkzcE8-xG-28yRDXx7X6-ZaNRIUlYmABYmi_8XfFYuYs5IMPU0gv9EbyutqDAfk/s1600/Android%20Studio%20-%20Header.png" height=40 hspace=10>
   
 </p>
